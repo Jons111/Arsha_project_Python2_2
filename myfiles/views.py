@@ -28,6 +28,7 @@ def index(malumot):
     else:
 
 
+
         works = Portfolio.objects.all()
         turlar = Type.objects.all()
 
